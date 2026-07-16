@@ -5,7 +5,7 @@ precificação das Bases de Conhecimento na indústria automotiva brasileira"**
 (Encontro Nacional de Economia — ANPEC, Área 9: Economia Industrial e da
 Tecnologia).
 
-**Autora:** Bianca Louzada Xavier Vasconcellos (UNESP/FCLAr)
+**Autora:** XXXXXXX
 
 ## O que o código faz
 
@@ -79,7 +79,7 @@ install.packages(c("tidyverse", "readxl", "fixest", "deflateBR",
 
 ## Citação
 
-> VASCONCELLOS, B. L. X. A hierarquia espacial do conhecimento: uma
+> XXXXXXXX A hierarquia espacial do conhecimento: uma
 > precificação das Bases de Conhecimento na indústria automotiva brasileira.
 > 2026.
 
