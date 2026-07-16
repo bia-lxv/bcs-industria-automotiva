@@ -2,8 +2,7 @@
 
 Código de replicação do artigo **"A hierarquia espacial do conhecimento: uma
 precificação das Bases de Conhecimento na indústria automotiva brasileira"**
-(Encontro Nacional de Economia — ANPEC, Área 9: Economia Industrial e da
-Tecnologia).
+
 
 **Autora:** XXXXXXX
 
