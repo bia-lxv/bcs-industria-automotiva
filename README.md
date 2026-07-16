@@ -81,7 +81,7 @@ install.packages(c("tidyverse", "readxl", "fixest", "deflateBR",
 
 > VASCONCELLOS, B. L. X. A hierarquia espacial do conhecimento: uma
 > precificação das Bases de Conhecimento na indústria automotiva brasileira.
-> In: ENCONTRO NACIONAL DE ECONOMIA, 54., 2026. Anais... ANPEC, 2026.
+> 2026.
 
 ## Licença
 
